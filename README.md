@@ -1,4 +1,4 @@
-Before you can run the program, you need to download the 2017 Panoptic train/val annotations zip file in the [COCO website] (https://cocodataset.org/#download).
+Before you can run the program, you need to download the 2017 Panoptic train/val annotations zip file in the [COCO website](https://cocodataset.org/#download).
 
 To use the filter, follow this following steps:
 1. Run 'panoptic_filter.py' to filter the json annotation based on image size, categories to keep, and categories not to keep.
